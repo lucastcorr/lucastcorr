@@ -20,6 +20,7 @@ jobs:
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           palette: github-dark
+          color_snake: blue
           target_branch: output
           build_dir: dist
         env:
