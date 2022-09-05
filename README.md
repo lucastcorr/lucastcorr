@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&width=1200&lines=Olá,+me+chamo+Lucas!+Bem-vindo(a)+ao+meu+perfil+no+GitHub!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=4000&width=1200&lines=Olá,+me+chamo+Lucas!+Bem-vindo(a)+ao+meu+perfil+no+GitHub!)](https://git.io/typing-svg)
 
 - 🔭 Atualmente estudo Ciência da Computação
 - 🌱 Estou estudando para me tornar um Desenvolvedor Back-End Java
@@ -7,7 +7,7 @@
 
  ##
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&width=1200&lines=Aqui+você+encontra+algumas+informações+sobre+o+meu+perfil+e+tecnologias+que+desejo+me+especializar:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=4000&width=1200&lines=Aqui+você+encontra+algumas+informações+sobre+o+meu+perfil+e+tecnologias+que+desejo+me+especializar:)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/lucastcorr">
   <img width="50%"  height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=lucastcorr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
