@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=4000&width=1200&lines=Hi!+my+name+is+Lucas!+Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
-- 🔭 Computer Science student
+- 🔭 I'm a Computer Science student
 - 🌱 Focus on Back-End development with NodeJS (TS/JS)
 - 🐱‍🏍 My goal is to contribute to society through technology
 - 📫 Contact: lucastcs95@gmail.com
