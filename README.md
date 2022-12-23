@@ -7,7 +7,7 @@
 
  ##
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=4000&width=1200&lines=Here+you+can+find+some+information+about+me+and+techs+that+i+love:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=4000&width=1200&lines=Here+you+can+find+some+information+about+me+and+techs+that+i+love)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/lucastcorr">
   <img width="50%"  height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=lucastcorr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -16,13 +16,14 @@
 
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img align="center" alt="Lucas-NodeJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-  <img align="center" alt="Lucas-NestJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg"/>
-  <img align="center" alt="Lucas-MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
-  <img align="center" alt="Lucas-PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
+  <img align="center" alt="Lucas-TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Lucas-NodeJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="Lucas-NestJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
+  <img align="center" alt="Lucas-MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="Lucas-PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="Lucas-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  //<img align="center" alt="Lucas-Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Lucas-Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+ 
 ##
 
 <div>
