@@ -1,9 +1,9 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=4000&width=1200&lines=Olá,+me+chamo+Lucas!+Bem-vindo(a)+ao+meu+perfil+no+GitHub!)](https://git.io/typing-svg)
 
-- 🔭 Atualmente estudo Ciência da Computação
-- 🌱 Estou estudando para me tornar um Desenvolvedor Back-End Java
-- 🐱‍🏍 Meu objetivo é iniciar minha carreira como Desenvolvedor Júnior
-- 📫 Meu contato: lucastcs95@gmail.com
+- 🔭 Computer Science student
+- 🌱 Focus on Back-End development with NodeJS (TS/JS)
+- 🐱‍🏍 My goal is to contribute to society through technology
+- 📫 Contact: lucastcs95@gmail.com
 
  ##
 
@@ -16,13 +16,16 @@
 
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="Lucas-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
-  <img align="center" alt="Lucas-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="Lucas-Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-
-
+  <img align="center" alt="Lucas-TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img align="center" alt="Lucas-NodeJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
+  <img align="center" alt="Lucas-NestJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg"/>
+  <img align="center" alt="Lucas-MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
+  <img align="center" alt="Lucas-PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
+ 
+  //<img align="center" alt="Lucas-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+  //<img align="center" alt="Lucas-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
+  //<img align="center" alt="Lucas-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  //<img align="center" alt="Lucas-Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 ##
 
 <div>
