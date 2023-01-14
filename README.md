@@ -5,6 +5,7 @@
 - 🐱‍🏍 My goal is to contribute to society through technology
 - 📫 Contact: lucastcs95@gmail.com
 
+
  ##
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=4000&width=1200&lines=Here+you+can+find+some+information+about+me+and+techs+that+i+love)](https://git.io/typing-svg)
