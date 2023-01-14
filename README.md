@@ -11,7 +11,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=4000&width=1200&lines=Here+you+can+find+some+information+about+me+and+techs+that+i+love)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/lucastcorr">
-   ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucastcorr&theme=dark&show_icons=true)
   <img width="50%"  height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=lucastcorr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastcorr&layout=compact&langs_count=7&theme=dark"/>
 </div>
