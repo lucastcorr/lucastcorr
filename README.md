@@ -8,7 +8,7 @@
 
  ##
 
-[![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucastcorr)](https://github.com/lucastcorr/github-readme-stats)
+[![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucastcorr)](https://github.com/anuraghazra/github-readme-stats)
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
