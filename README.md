@@ -2,7 +2,7 @@
 
 - 🔭 I'm a Computer Science student
 - 🌱 Focus on Back-End development with NodeJS (TS/JS)
-- 🐱‍🏍 My goal is to contribute to society through technology
+- :tada: My goal is to contribute to society through technology
 - 📫 Contact: lucastcs95@gmail.com
 
 
