@@ -23,7 +23,7 @@
  <img align="center" alt="Lucas-MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
  <img align="center" alt="Lucas-PrismaORM" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" />
  <img align="center" alt="Lucas-TypeORM" height="50" width="60" src="https://user-images.githubusercontent.com/30929568/112730670-de09a480-8f58-11eb-9875-0d9ebb87fbd6.png" />
- <img align="center" alt="Lucas-TypeORM" height="50" width="60" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.png" />
+ <img align="center" alt="Lucas-Jest" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
  <img align="center" alt="Lucas-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
  
 ##
