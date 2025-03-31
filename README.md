@@ -16,7 +16,7 @@
 </div>
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Lucas-Java" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/java.svg" />
   <img align="center" alt="Lucas-PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
  <img align="center" alt="Lucas-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
  
